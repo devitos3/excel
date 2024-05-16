@@ -1,0 +1,31 @@
+Region,Repo Name ,Primary Owner
+NA,chubb-studio-ecommerce-proxy,Anubha
+NA,chubb-studio-native-apis,Anubha
+NA,chubb-studio-native-apis(amex-apis),Anubha
+NA,chubb-studio-servicing-proxy,Anubha
+NA,chubb-studio-native-apis(polices-api),Naveen
+NA,studio-metadata-services,Niket
+APAC,chubb-studio-native-apis,Anubha
+APAC,chubb-studio-native-apis(amex-apis),Anubha
+APAC,chubb-studio-native-apis(polices-api),Anubha
+APAC,chubb-studio-servicing-proxy,Anubha
+APAC,chubb-studio-ecommerce-proxy,Nagaraju
+APAC,chubb-studio-native-apis(mst-apis),Anubha
+EMEA,chubb-studio-native-apis,Anubha
+EMEA,chubb-studio-native-apis(polices-api),Anubha
+EMEA,chubb-studio-native-apis(amex-apis),Anubha
+EMEA,chubb-studio-servicing-proxy,Anubha
+EMEA,studio-metadata-services,Niket
+EMEA,chubb-studio-marketplace-backend,"Tachtsidis, Nikolaos"
+EMEA,marketplace-integration-services,"Tachtsidis, Nikolaos"
+LATAM,chubb-studio-servicing-proxy,Anubha
+LATAM,chubb-studio-ecommerce-proxy,George
+APAC,chubb-studio-ecommerce-proxy-sit,Nagaraju Kunchala
+EMEA,chubb-studio-ecommerce-proxy-sit,Anubha
+LATAM,chubb-studio-ecommerce-proxy-sit,Anubha
+NA,chubb-studio-ecommerce-proxy-sit,Anubha 
+,chubb-studio-native-apis-sit,Anubha
+,studio-metadata-services-sit,Niket
+NA,chubb-studio-native-apis-policies,Naveen
+LATAM,chubb-studio-servicing-proxy,Naveen
+EMEA,chubb-studio-marketplace-backend-sit,"Tachtsidis, Nikolaos"
